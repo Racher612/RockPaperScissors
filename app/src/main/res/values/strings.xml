@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="play">Играть</string>
+    <string name="victories">Победы</string>
+    <string name="count">Счёт</string>
+    <string name="defeat">Поражение</string>
+    <string name="victory">Победа</string>
+    <string name="rounds">раундов</string>
+    <string name="choose">Выберите фигуру</string>
+    <string name="next_round">К следующему раунду</string>
+    <string name="robot_wins">Пластмассовый мир победил...</string>
+    <string name="robot_ok">Покориться всемогущему искусственному интеллекту</string>
+    <string name="human_wins">Мы в очередной раз доказали превосходство живого разума</string>
+    <string name="human_ok">Продолжить унижать машин</string>
+</resources>
